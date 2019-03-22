@@ -1,2 +1,2 @@
 # Cricket-Match-Winner-Prediction
-The predictor the predict which team will the cricket match between two team.
+The system predicts which team will win the cricket match between two teams
